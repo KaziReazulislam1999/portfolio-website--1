@@ -1,0 +1,129 @@
+body{
+    font-family: 'Raleway', sans-serif;
+    margin:0;
+}
+section{
+    height: 550px;
+}
+h1{
+    font-size: 60px;
+    font-weight: 800 ;
+}
+h2{
+    font-size: 40px;
+    font-weight: 800;
+}
+h3{
+    font-size: 20px;
+    font-weight: 800;
+    
+}
+p{
+    font-size:15px;
+    line-height: 1.5;
+    color: grey;
+    padding-right: 50px;
+    text-align: justify;
+    margin-bottom: 30px;
+    
+}
+.name-highlight{
+    color: orange;
+}
+.half-width{
+
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    
+}
+.banner-top{
+    background-image: url(../images/top-banner.png);
+    background-repeat: no-repeat;
+    
+    
+}
+.dream-area{
+    background-image: url(../images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    
+}
+.half-width img{
+    width: 80%;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(107, 73, 10),rgb(255, 145, 0));
+    padding: 10px 20px;
+    border-radius: 5px;
+    color:#fff;
+    font-weight: bold;
+}
+
+.expericence-area{
+   background-image: url(../images/exp-bg.png);
+   background-repeat: no-repeat;
+   background-position: left;
+}
+.box-left{
+    border-left: 5px solid black;
+    border-image: linear-gradient(orange,salmon);
+    border-image-slice: 1;
+    background: #fff;
+}
+.box-right{
+    border-left: 5px solid red;
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice: 1;
+    background: #fff;
+
+}
+.box-shadow{
+    box-shadow: 10px 10px 40px gray;
+}
+.progress{
+    line-height: 50px;
+    border-radius: 10px;
+    
+}
+.black-bar{
+    width: 25%;
+    background-color: black;
+    color: #fff;
+}
+.red-bar{
+    width: 50%;
+    background-color: red;
+    color: #fff;
+}
+.green-bar{
+    width: 75%;
+    background-color: green;
+    color: #fff;
+}
+.blue-bar{
+    width: 85%;
+    background-color: blue;
+    color: #fff;
+}
+.cyan-bar{
+    width: 90%;
+    background-color:cyan;
+    color: #fff;
+    
+}
+.p-text{
+    color: #fff;
+    font-weight: 500;
+    text-align: right;
+}
+.progress-bar{
+    margin-left: 5%;
+    padding-left: 2%;
+    margin-bottom: 50px;
+}
+footer p{
+    text-align: center;
+}
