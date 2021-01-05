@@ -90,27 +90,27 @@ p{
 }
 .black-bar{
     width: 25%;
-    background-color: black;
+    background-image: linear-gradient(45deg, cyan,red);
     color: #fff;
 }
 .red-bar{
     width: 50%;
-    background-color: red;
+    background-image: linear-gradient(45deg, yellow,red);
     color: #fff;
 }
 .green-bar{
     width: 75%;
-    background-color: green;
+    background-image: linear-gradient(45deg, green,red);
     color: #fff;
 }
 .blue-bar{
     width: 85%;
-    background-color: blue;
+    background-image: linear-gradient(45deg, salmon,red);
     color: #fff;
 }
 .cyan-bar{
     width: 90%;
-    background-color:cyan;
+    background-image: linear-gradient(45deg, black,red);
     color: #fff;
     
 }
